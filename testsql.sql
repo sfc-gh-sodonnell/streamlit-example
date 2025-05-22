@@ -1,1 +1,1 @@
-select * from dual;
+select * from dual limit 1;
